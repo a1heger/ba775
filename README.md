@@ -6,4 +6,4 @@ __Team Members__
 Akash Reddy,
 Sonal Kaur,
 Wenxuan Yan,
-Alexander Heger,
+Alexander Heger
