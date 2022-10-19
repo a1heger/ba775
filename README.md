@@ -3,7 +3,7 @@ __Team Lead__
 Anish Puthuraya
 
 __Team Members__
-Akash Reddy
-Sonal Kaur
-Wenxuan Yan
-Alexander Heger
+Akash Reddy,
+Sonal Kaur,
+Wenxuan Yan,
+Alexander Heger,
